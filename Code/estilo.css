@@ -1,0 +1,31 @@
+body{
+background-color: #37E5E4;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+/* Titulo do documento */
+h1{
+    text-align: center;
+
+
+}
+
+ul{
+    display:inline;
+
+
+
+}
+
+li{
+    padding: 0.6%;
+
+
+
+}
+
+nav{
+text-align: center;
+
+}
