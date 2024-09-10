@@ -1,0 +1,16 @@
+body{
+background-color: #2f6392;
+font-family: Arial, Helvetica, sans-serif;
+}
+label,
+input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+.alinhaform {
+    margin: 0 auto;
+    width: 70%;
+    background-color: #729fd3;
+    padding: 3%;
+}
